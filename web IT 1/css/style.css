@@ -1,0 +1,43 @@
+
+body {
+    background-color:black ;
+}
+
+        *{
+            padding: 10;
+             margin: 50;
+        }
+        table, tr, td 
+        {
+            border : 1px solid  red;
+        }
+        table {
+            width: 90%;
+            margin-left: 5%;
+            margin-right: 5%;
+           margin-top: 15%;  
+
+        }
+        td{
+            height:250px
+        }
+        #d1{
+            background-color: aqua;
+        }
+        #d2{
+            background-color: blueviolet;
+        }
+        #d3{
+            background-color: red;
+        }
+        #d4{
+            background-color: green;
+        }
+        #d5{
+            background-color: grey;
+        }
+        #d6{
+            background-color: yellow;
+        }
+       
+ 
